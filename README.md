@@ -18,4 +18,4 @@ https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Chat-chat-chat
 * NodeJS, Express
 
 ## Screenshots
-![Screenshot chat]()
+![Screenshot chat](src/assets/img/Chat React.png)
